@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -51,7 +52,7 @@ button {
 .quote {
     font-size: 36px;
     color: #1F2937;
-    font-weight: 100;
+    font-weight: 400;
     font-style: italic;
 }
 .navigation {
